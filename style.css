@@ -1,4 +1,14 @@
+#imagem-saopaulo{
+   width:100px;
+   border: slid 3px rgb(0, 0, 0);
+}
+
 .principal{
-   background-color: brown; 
-   color: white;
+   background-color : brown;
+   color :aliceblue
+}
+.rodape{
+        background-color: brown;
+        color: crimson;
+        text-align: center;
 }
