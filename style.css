@@ -5,10 +5,10 @@
 
 .principal{
    background-color : brown;
-   color :aliceblue
+   color :rgb(255, 240, 241)
 }
 .rodape{
         background-color: brown;
-        color: crimson;
+        color: rgb(255, 0, 51);
         text-align: center;
 }
