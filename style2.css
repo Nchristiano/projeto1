@@ -8,6 +8,10 @@
     font-weight: 400;
 }
 
+#escudo-sao paulo{
+    width: 300px;
+    border: 3px black solid;
+}
 .principal{
     background-color: black;
     border: 10px;
